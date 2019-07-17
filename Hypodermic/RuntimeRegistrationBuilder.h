@@ -1,11 +1,11 @@
 #pragma once
 
-#include "Hypodermic/ActivationHandlers.h"
-#include "Hypodermic/DependencyFactories.h"
-#include "Hypodermic/InstanceFactory.h"
-#include "Hypodermic/IRuntimeRegistrationBuilder.h"
-#include "Hypodermic/Registration.h"
-#include "Hypodermic/TypeAliases.h"
+#include "./ActivationHandlers.h"
+#include "./DependencyFactories.h"
+#include "./InstanceFactory.h"
+#include "./IRuntimeRegistrationBuilder.h"
+#include "./Registration.h"
+#include "./TypeAliases.h"
 
 
 namespace Hypodermic

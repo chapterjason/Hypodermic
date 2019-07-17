@@ -4,10 +4,10 @@
 #include <functional>
 #include <memory>
 
-#include "Hypodermic/ITypeAlias.h"
-#include "Hypodermic/NamedTypeAlias.h"
-#include "Hypodermic/TypeAlias.h"
-#include "Hypodermic/TypeInfo.h"
+#include "./ITypeAlias.h"
+#include "./NamedTypeAlias.h"
+#include "./TypeAlias.h"
+#include "./TypeInfo.h"
 
 
 namespace Hypodermic

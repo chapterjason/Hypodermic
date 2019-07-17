@@ -1,16 +1,16 @@
 #pragma once
 
-#include "Hypodermic/DependencyFactoryTag.h"
-#include "Hypodermic/InstanceLifetime.h"
-#include "Hypodermic/InstanceRegistrationTags.h"
-#include "Hypodermic/MetaContains.h"
-#include "Hypodermic/MetaIdentity.h"
-#include "Hypodermic/MetaInsert.h"
-#include "Hypodermic/MetaMap.h"
-#include "Hypodermic/MetaPair.h"
-#include "Hypodermic/ProvidedDependencyTag.h"
-#include "Hypodermic/ProvidedInstanceDependencyTag.h"
-#include "Hypodermic/RegistrationDescriptorInfoToString.h"
+#include "./DependencyFactoryTag.h"
+#include "./InstanceLifetime.h"
+#include "./InstanceRegistrationTags.h"
+#include "./MetaContains.h"
+#include "./MetaIdentity.h"
+#include "./MetaInsert.h"
+#include "./MetaMap.h"
+#include "./MetaPair.h"
+#include "./ProvidedDependencyTag.h"
+#include "./ProvidedInstanceDependencyTag.h"
+#include "./RegistrationDescriptorInfoToString.h"
 
 
 namespace Hypodermic

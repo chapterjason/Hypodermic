@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-#include "Hypodermic/ILoggerSink.h"
+#include "./ILoggerSink.h"
 
 
 namespace Hypodermic

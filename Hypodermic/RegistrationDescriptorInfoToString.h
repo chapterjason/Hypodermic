@@ -4,13 +4,13 @@
 #include <string>
 #include <type_traits>
 
-#include "Hypodermic/DependencyFactoryTag.h"
-#include "Hypodermic/MetaForEach.h"
-#include "Hypodermic/MetaPair.h"
-#include "Hypodermic/Pragmas.h"
-#include "Hypodermic/ProvidedDependencyTag.h"
-#include "Hypodermic/ProvidedInstanceDependencyTag.h"
-#include "Hypodermic/TypeInfo.h"
+#include "./DependencyFactoryTag.h"
+#include "./MetaForEach.h"
+#include "./MetaPair.h"
+#include "./Pragmas.h"
+#include "./ProvidedDependencyTag.h"
+#include "./ProvidedInstanceDependencyTag.h"
+#include "./TypeInfo.h"
 
 
 namespace Hypodermic

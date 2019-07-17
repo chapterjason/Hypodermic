@@ -5,11 +5,11 @@
 #include <unordered_map>
 #include <vector>
 
-#include "Hypodermic/IRegistration.h"
-#include "Hypodermic/IRegistrationScope.h"
-#include "Hypodermic/RegistrationContext.h"
-#include "Hypodermic/ResolutionContainer.h"
-#include "Hypodermic/TypeAliasKey.h"
+#include "./IRegistration.h"
+#include "./IRegistrationScope.h"
+#include "./RegistrationContext.h"
+#include "./ResolutionContainer.h"
+#include "./TypeAliasKey.h"
 
 
 namespace Hypodermic

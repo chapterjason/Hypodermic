@@ -2,8 +2,8 @@
 
 #include <unordered_map>
 
-#include "Hypodermic/DependencyFactory.h"
-#include "Hypodermic/TypeInfo.h"
+#include "./DependencyFactory.h"
+#include "./TypeInfo.h"
 
 
 namespace Hypodermic

@@ -4,11 +4,11 @@
 #include <unordered_map>
 #include <vector>
 
-#include "Hypodermic/ActivationHandlers.h"
-#include "Hypodermic/DependencyFactories.h"
-#include "Hypodermic/IRegistration.h"
-#include "Hypodermic/RegistrationActivator.h"
-#include "Hypodermic/TypeInfo.h"
+#include "./ActivationHandlers.h"
+#include "./DependencyFactories.h"
+#include "./IRegistration.h"
+#include "./RegistrationActivator.h"
+#include "./TypeInfo.h"
 
 
 namespace Hypodermic

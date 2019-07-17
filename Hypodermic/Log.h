@@ -2,9 +2,9 @@
 
 #include <sstream>
 
-#include "Hypodermic/Logger.h"
-#include "Hypodermic/LogLevel.h"
-#include "Hypodermic/Pragmas.h"
+#include "./Logger.h"
+#include "./LogLevel.h"
+#include "./Pragmas.h"
 
 #define HYPODERMIC_LOG(hypodermicLogLevel, hypodermicLogMessage) \
     HYPODERMIC_PRAGMA_PUSH \

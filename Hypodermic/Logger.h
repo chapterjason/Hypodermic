@@ -3,8 +3,8 @@
 #include <memory>
 #include <string>
 
-#include "Hypodermic/LogLevel.h"
-#include "Hypodermic/NoopLoggerSink.h"
+#include "./LogLevel.h"
+#include "./NoopLoggerSink.h"
 
 
 namespace Hypodermic

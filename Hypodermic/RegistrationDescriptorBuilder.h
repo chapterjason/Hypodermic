@@ -2,10 +2,10 @@
 
 #include <type_traits>
 
-#include "Hypodermic/AutowireableConstructor.h"
-#include "Hypodermic/AutowireableConstructorRegistrationDescriptor.h"
-#include "Hypodermic/ProvidedInstanceFactoryRegistrationDescriptor.h"
-#include "Hypodermic/ProvidedInstanceRegistrationDescriptor.h"
+#include "./AutowireableConstructor.h"
+#include "./AutowireableConstructorRegistrationDescriptor.h"
+#include "./ProvidedInstanceFactoryRegistrationDescriptor.h"
+#include "./ProvidedInstanceRegistrationDescriptor.h"
 
 
 namespace Hypodermic

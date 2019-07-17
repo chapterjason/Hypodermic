@@ -2,8 +2,8 @@
 
 #include <unordered_map>
 
-#include "Hypodermic/IRegistration.h"
-#include "Hypodermic/TypeInfo.h"
+#include "./IRegistration.h"
+#include "./TypeInfo.h"
 
 
 namespace Hypodermic

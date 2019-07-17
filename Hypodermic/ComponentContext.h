@@ -5,18 +5,18 @@
 
 #include <boost/range/adaptor/reversed.hpp>
 
-#include "Hypodermic/AutowireableConstructor.h"
-#include "Hypodermic/Behavior.h"
-#include "Hypodermic/ConstructorDescriptor.h"
-#include "Hypodermic/IRegistration.h"
-#include "Hypodermic/IRegistrationScope.h"
-#include "Hypodermic/IResolutionContainer.h"
-#include "Hypodermic/IRuntimeRegistrationBuilder.h"
-#include "Hypodermic/IsComplete.h"
-#include "Hypodermic/NestedRegistrationScope.h"
-#include "Hypodermic/ResolutionContext.h"
-#include "Hypodermic/ResolutionException.h"
-#include "Hypodermic/TypeInfo.h"
+#include "./AutowireableConstructor.h"
+#include "./Behavior.h"
+#include "./ConstructorDescriptor.h"
+#include "./IRegistration.h"
+#include "./IRegistrationScope.h"
+#include "./IResolutionContainer.h"
+#include "./IRuntimeRegistrationBuilder.h"
+#include "./IsComplete.h"
+#include "./NestedRegistrationScope.h"
+#include "./ResolutionContext.h"
+#include "./ResolutionException.h"
+#include "./TypeInfo.h"
 
 
 namespace Hypodermic

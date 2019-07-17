@@ -5,12 +5,12 @@
 #include <unordered_map>
 #include <unordered_set>
 
-#include "Hypodermic/Container.h"
-#include "Hypodermic/ContainerInstanceRegistration.h"
-#include "Hypodermic/IRegistrationScope.h"
-#include "Hypodermic/Log.h"
-#include "Hypodermic/RegistrationDescriptorBuilder.h"
-#include "Hypodermic/RuntimeRegistrationBuilder.h"
+#include "./Container.h"
+#include "./ContainerInstanceRegistration.h"
+#include "./IRegistrationScope.h"
+#include "./Log.h"
+#include "./RegistrationDescriptorBuilder.h"
+#include "./RuntimeRegistrationBuilder.h"
 
 
 namespace Hypodermic

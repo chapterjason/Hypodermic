@@ -2,7 +2,7 @@
 
 #include <type_traits>
 
-#include "Hypodermic/TypeAliasKey.h"
+#include "./TypeAliasKey.h"
 
 
 namespace Hypodermic

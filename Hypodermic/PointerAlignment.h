@@ -2,8 +2,8 @@
 
 #include <memory>
 
-#include "Hypodermic/TypeAliases.h"
-#include "Hypodermic/TypeAliasKey.h"
+#include "./TypeAliases.h"
+#include "./TypeAliasKey.h"
 
 
 namespace Hypodermic

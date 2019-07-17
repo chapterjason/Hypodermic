@@ -4,7 +4,7 @@
 #include <memory>
 #include <unordered_map>
 
-#include "Hypodermic/TypeAliasKey.h"
+#include "./TypeAliasKey.h"
 
 
 namespace Hypodermic

@@ -3,8 +3,8 @@
 #include <memory>
 #include <unordered_map>
 
-#include "Hypodermic/PointerAlignment.h"
-#include "Hypodermic/TypeAliasKey.h"
+#include "./PointerAlignment.h"
+#include "./TypeAliasKey.h"
 
 
 namespace Hypodermic

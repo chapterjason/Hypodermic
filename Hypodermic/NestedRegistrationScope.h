@@ -4,9 +4,9 @@
 #include <mutex>
 #include <vector>
 
-#include "Hypodermic/IRegistration.h"
-#include "Hypodermic/RegistrationScope.h"
-#include "Hypodermic/TypeAliasKey.h"
+#include "./IRegistration.h"
+#include "./RegistrationScope.h"
+#include "./TypeAliasKey.h"
 
 
 namespace Hypodermic

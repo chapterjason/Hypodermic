@@ -1,8 +1,8 @@
 #pragma once
 
-#include "Hypodermic/IRegistration.h"
-#include "Hypodermic/ProvidedInstanceRegistrationActivator.h"
-#include "Hypodermic/TypeInfo.h"
+#include "./IRegistration.h"
+#include "./ProvidedInstanceRegistrationActivator.h"
+#include "./TypeInfo.h"
 
 
 namespace Hypodermic

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Hypodermic/ExceptionBase.h"
+#include "./ExceptionBase.h"
 
 
 namespace Hypodermic

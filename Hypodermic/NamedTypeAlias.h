@@ -3,8 +3,8 @@
 #include <string>
 #include <utility>
 
-#include "Hypodermic/ITypeAlias.h"
-#include "Hypodermic/TypeInfo.h"
+#include "./ITypeAlias.h"
+#include "./TypeInfo.h"
 
 
 namespace Hypodermic

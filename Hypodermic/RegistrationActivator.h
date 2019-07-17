@@ -6,12 +6,12 @@
 
 #include <boost/signals2.hpp>
 
-#include "Hypodermic/ActivationHandlers.h"
-#include "Hypodermic/InstanceFactory.h"
-#include "Hypodermic/IRegistration.h"
-#include "Hypodermic/IRegistrationActivator.h"
-#include "Hypodermic/Log.h"
-#include "Hypodermic/TypeInfo.h"
+#include "./ActivationHandlers.h"
+#include "./InstanceFactory.h"
+#include "./IRegistration.h"
+#include "./IRegistrationActivator.h"
+#include "./Log.h"
+#include "./TypeInfo.h"
 
 
 namespace Hypodermic

@@ -5,8 +5,8 @@
 #include <type_traits>
 #include <vector>
 
-#include "Hypodermic/Config.h"
-#include "Hypodermic/FactoryWrapper.h"
+#include "./Config.h"
+#include "./FactoryWrapper.h"
 
 
 namespace Hypodermic

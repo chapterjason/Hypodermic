@@ -2,10 +2,10 @@
 
 #include <type_traits>
 
-#include "Hypodermic/AnyArgument.h"
-#include "Hypodermic/ArgumentPack.h"
-#include "Hypodermic/Config.h"
-#include "Hypodermic/IntegerSequence.h"
+#include "./AnyArgument.h"
+#include "./ArgumentPack.h"
+#include "./Config.h"
+#include "./IntegerSequence.h"
 
 
 namespace Hypodermic

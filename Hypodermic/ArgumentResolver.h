@@ -4,10 +4,10 @@
 #include <memory>
 #include <vector>
 
-#include "Hypodermic/FactoryWrapper.h"
-#include "Hypodermic/IsComplete.h"
-#include "Hypodermic/ResolutionException.h"
-#include "Hypodermic/TypeInfo.h"
+#include "./FactoryWrapper.h"
+#include "./IsComplete.h"
+#include "./ResolutionException.h"
+#include "./TypeInfo.h"
 
 
 namespace Hypodermic

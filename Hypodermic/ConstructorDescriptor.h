@@ -4,10 +4,10 @@
 #include <memory>
 #include <type_traits>
 
-#include "Hypodermic/ArgumentPack.h"
-#include "Hypodermic/ArgumentResolver.h"
-#include "Hypodermic/ConstructorTypologyDeducer.h"
-#include "Hypodermic/IsSupportedArgument.h"
+#include "./ArgumentPack.h"
+#include "./ArgumentResolver.h"
+#include "./ConstructorTypologyDeducer.h"
+#include "./IsSupportedArgument.h"
 
 
 namespace Hypodermic

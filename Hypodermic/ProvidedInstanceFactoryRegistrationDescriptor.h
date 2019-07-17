@@ -1,15 +1,15 @@
 #pragma once
 
-#include "Hypodermic/As.h"
-#include "Hypodermic/AsSelf.h"
-#include "Hypodermic/InstanceFactory.h"
-#include "Hypodermic/Log.h"
-#include "Hypodermic/Named.h"
-#include "Hypodermic/OnActivated.h"
-#include "Hypodermic/RegistrationBuilder.h"
-#include "Hypodermic/RegistrationDescriptorBase.h"
-#include "Hypodermic/SingleInstance.h"
-#include "Hypodermic/UseIfNone.h"
+#include "./As.h"
+#include "./AsSelf.h"
+#include "./InstanceFactory.h"
+#include "./Log.h"
+#include "./Named.h"
+#include "./OnActivated.h"
+#include "./RegistrationBuilder.h"
+#include "./RegistrationDescriptorBase.h"
+#include "./SingleInstance.h"
+#include "./UseIfNone.h"
 
 
 namespace Hypodermic

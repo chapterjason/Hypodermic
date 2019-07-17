@@ -4,13 +4,13 @@
 #include <memory>
 #include <vector>
 
-#include "Hypodermic/ActivationHandlers.h"
-#include "Hypodermic/DependencyFactories.h"
-#include "Hypodermic/InstanceLifetime.h"
-#include "Hypodermic/Registration.h"
-#include "Hypodermic/PersistentInstanceRegistration.h"
-#include "Hypodermic/ProvidedInstanceRegistration.h"
-#include "Hypodermic/TypeAliases.h"
+#include "./ActivationHandlers.h"
+#include "./DependencyFactories.h"
+#include "./InstanceLifetime.h"
+#include "./Registration.h"
+#include "./PersistentInstanceRegistration.h"
+#include "./ProvidedInstanceRegistration.h"
+#include "./TypeAliases.h"
 
 
 namespace Hypodermic

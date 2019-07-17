@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Hypodermic/InstanceLifetime.h"
+#include "./InstanceLifetime.h"
 
 
 namespace Hypodermic

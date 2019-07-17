@@ -2,7 +2,7 @@
 
 #include <memory>
 
-#include "Hypodermic/IRegistration.h"
+#include "./IRegistration.h"
 
 
 namespace Hypodermic

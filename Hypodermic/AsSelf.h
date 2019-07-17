@@ -2,7 +2,7 @@
 
 #include <type_traits>
 
-#include "Hypodermic/InstanceRegistrationTags.h"
+#include "./InstanceRegistrationTags.h"
 
 
 namespace Hypodermic

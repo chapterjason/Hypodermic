@@ -3,7 +3,7 @@
 #include <type_traits>
 #include <utility>
 
-#include "Hypodermic/Config.h"
+#include "./Config.h"
 
 
 namespace Hypodermic

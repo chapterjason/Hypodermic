@@ -2,9 +2,9 @@
 
 #include <vector>
 
-#include "Hypodermic/ActivatedRegistrationInfo.h"
-#include "Hypodermic/IResolutionContext.h"
-#include "Hypodermic/ResolutionInfo.h"
+#include "./ActivatedRegistrationInfo.h"
+#include "./IResolutionContext.h"
+#include "./ResolutionInfo.h"
 
 
 namespace Hypodermic

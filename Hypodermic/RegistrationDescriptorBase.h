@@ -1,11 +1,11 @@
 #pragma once
 
-#include "Hypodermic/ActivationHandlers.h"
-#include "Hypodermic/DependencyFactories.h"
-#include "Hypodermic/IRegistration.h"
-#include "Hypodermic/IRegistrationDescriptor.h"
-#include "Hypodermic/RegistrationDescriptorInfo.h"
-#include "Hypodermic/TypeAliases.h"
+#include "./ActivationHandlers.h"
+#include "./DependencyFactories.h"
+#include "./IRegistration.h"
+#include "./IRegistrationDescriptor.h"
+#include "./RegistrationDescriptorInfo.h"
+#include "./TypeAliases.h"
 
 
 namespace Hypodermic

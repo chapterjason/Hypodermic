@@ -6,18 +6,18 @@
 
 #include <boost/range/sub_range.hpp>
 
-#include "Hypodermic/ActivationResult.h"
-#include "Hypodermic/ActivationException.h"
-#include "Hypodermic/ActivatedRegistrationInfo.h"
-#include "Hypodermic/ActivationRegistry.h"
-#include "Hypodermic/CircularDependencyException.h"
-#include "Hypodermic/DependencyActivationException.h"
-#include "Hypodermic/InstanceAlreadyActivatingException.h"
-#include "Hypodermic/IRegistrationActivator.h"
-#include "Hypodermic/IResolutionContainer.h"
-#include "Hypodermic/Log.h"
-#include "Hypodermic/PointerAlignment.h"
-#include "Hypodermic/ResolutionContext.h"
+#include "./ActivationResult.h"
+#include "./ActivationException.h"
+#include "./ActivatedRegistrationInfo.h"
+#include "./ActivationRegistry.h"
+#include "./CircularDependencyException.h"
+#include "./DependencyActivationException.h"
+#include "./InstanceAlreadyActivatingException.h"
+#include "./IRegistrationActivator.h"
+#include "./IResolutionContainer.h"
+#include "./Log.h"
+#include "./PointerAlignment.h"
+#include "./ResolutionContext.h"
 
 
 namespace Hypodermic

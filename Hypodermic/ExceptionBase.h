@@ -4,7 +4,7 @@
 #include <sstream>
 #include <type_traits>
 
-#include "Hypodermic/Pragmas.h"
+#include "./Pragmas.h"
 
 
 #define HYPODERMIC_THROW(HypodermicExceptionType, hypodermicMessage) \

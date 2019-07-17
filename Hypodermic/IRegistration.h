@@ -1,8 +1,8 @@
 #pragma once
 
-#include "Hypodermic/DependencyFactory.h"
-#include "Hypodermic/InstanceLifetime.h"
-#include "Hypodermic/TypeAliases.h"
+#include "./DependencyFactory.h"
+#include "./InstanceLifetime.h"
+#include "./TypeAliases.h"
 
 
 namespace Hypodermic

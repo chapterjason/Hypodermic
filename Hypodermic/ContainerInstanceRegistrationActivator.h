@@ -1,10 +1,10 @@
 #pragma once
 
-#include "Hypodermic/Container.h"
-#include "Hypodermic/IRegistration.h"
-#include "Hypodermic/IRegistrationActivator.h"
-#include "Hypodermic/Log.h"
-#include "Hypodermic/TypeInfo.h"
+#include "./Container.h"
+#include "./IRegistration.h"
+#include "./IRegistrationActivator.h"
+#include "./Log.h"
+#include "./TypeInfo.h"
 
 
 namespace Hypodermic

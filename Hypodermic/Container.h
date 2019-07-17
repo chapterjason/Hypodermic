@@ -3,10 +3,10 @@
 #include <memory>
 #include <vector>
 
-#include "Hypodermic/ComponentContext.h"
-#include "Hypodermic/IRegistrationScope.h"
-#include "Hypodermic/IRuntimeRegistrationBuilder.h"
-#include "Hypodermic/NestedRegistrationScope.h"
+#include "./ComponentContext.h"
+#include "./IRegistrationScope.h"
+#include "./IRuntimeRegistrationBuilder.h"
+#include "./NestedRegistrationScope.h"
 
 
 namespace Hypodermic
